@@ -6,7 +6,7 @@
 
 ## Purpose
 
-This repository is for storing useful Terraform modules for various cloud providers.
+This repository houses the AWS CodeDeploy pattern.
 
 ## How To Contribute to this file
 
